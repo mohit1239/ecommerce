@@ -31,9 +31,13 @@
    text-align: left;
 }
 .product > button{
-    background:orange;
-    border: 1px solid;
-    border-color: black;
+    background-color: orange;
     margin-top: 10px;
-    color: black;
+    margin-bottom: 10px;
 }
+.product_rating{
+    display: flex;
+}
+
+
+  
